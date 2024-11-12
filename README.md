@@ -16,7 +16,7 @@ Bot otomatis untuk menggunakan proxy Nodepay AI.
    ```
 
 4. **Ambil Token Nodepay**
-   - Buka [dashboard Grass](https://app.nodepay.ai/dashboard) Anda.
+   - Buka [dashboard Nodepay](https://app.nodepay.ai/dashboard) Anda.
    - Buka *inspect element* dengan menekan `Ctrl + Shift + I`.
    - Pergi ke tab `Application` lalu expand `Local storage` lalu klik `http://app.nodepay.ai`
    - Anda akan menemukan key np_token sebagai token anda
