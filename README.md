@@ -1,4 +1,4 @@
-# Proxygrass Bot
+# Nodepay AI Bot
 Bot otomatis untuk menggunakan proxy Nodepay AI.
 
 ## Langkah Instalasi
