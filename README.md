@@ -36,6 +36,11 @@ Bot otomatis untuk menggunakan proxy Nodepay AI.
    ```bash
    python mufiiin.py
    ```
+   Jika kamu tidak memiliki premium residential proxy maka jalankan:
+   
+   ```bash
+   python autofin.py
+   ```
 
 ## Catatan
 Pastikan proxy yang digunakan valid dan sesuai format agar bot dapat berjalan dengan lancar.
