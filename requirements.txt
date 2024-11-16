@@ -3,3 +3,7 @@ cloudscraper
 loguru
 aiohttp
 backoff
+requests
+termcolor
+pyfiglet
+inquirer
