@@ -24,9 +24,9 @@ Bot otomatis untuk menggunakan proxy Nodepay AI.
 
 5. **Konfigurasi Proxy**
 
-   Isi daftar proxy pada file `Proxiy.txt` dengan Connection type `IP Address` menggunakan format berikut:
+   Isi daftar proxy pada file `Proxiy.txt` menggunakan Connection type `Hostname` menggunakan format berikut:
    ```
-   http://username:password@ip:port
+   username:password@hostname:port
    ```
    Tambahkan satu baris untuk setiap proxy yang ingin digunakan.
 
